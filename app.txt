@@ -201,9 +201,7 @@ prev.addEventListener("click", (e) => {
 });
 
 // next.addEventListener("click", (e) => {
-//   // console.log("clicked");
-//   // start = start + 20; // 21
-//   // end = end + 20; // 40
+//  
 
 //   nextData(start, end);
 // });
